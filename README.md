@@ -20,4 +20,5 @@ Spring • Backend Development • DSA
 📊 GitHub Statistics
 
 🤝 Connect
-LinkedIn | Email
+LinkedIn - https://www.linkedin.com/in/rupesh-bansode-55873841b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email - bansoderupesh040@gmail.com
