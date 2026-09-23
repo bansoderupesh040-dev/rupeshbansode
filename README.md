@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Rupesh Bansode
 
-<!--
-**bansoderupesh040-dev/bansoderupesh040-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+💻 Java | Web Development | SQL | MongoDB
+🧠 Data Structures & Algorithms
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+⚖️ MaapVerify
+☕ Java Web Applications
+🧠 DSA with Java
+🗄️ Database Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Java • JSP • Servlets • HTML • CSS • JavaScript
+SQL • MongoDB • Git • GitHub
+
+📚 Currently Learning
+Spring • Backend Development • DSA
+
+📊 GitHub Statistics
+
+🤝 Connect
+LinkedIn | Email
